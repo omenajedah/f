@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catatan Keuangan</string>
+
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="selisih">Selisih</string>
+
+</resources>
